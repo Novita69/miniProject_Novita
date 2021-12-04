@@ -1,0 +1,73 @@
+
+.container-fluid-content-style {
+    margin-bottom: 25px;
+    border-radius: 20px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-style {
+
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+    height: 100px;
+    background-color: #B9F6CA;
+
+}
+
+.img-nav-style {
+    border-radius: 10px;
+    background-color: darkgray;
+}
+
+.navbar-nav-menu-style {
+
+    flex-direction: row;
+    padding: 5px;
+}
+
+
+.nav-link-home-style {
+
+    margin-right: 35px;
+
+}
+
+.nav-link-about-style {
+
+    margin-left: 35px;
+}
+
+.alert-primary-style {
+    display: flex;
+    border-radius: 15px;
+    background-color: gainsboro;
+
+}
+
+.footer-style {
+
+    margin-bottom: 25px;
+    border-radius: 20px;
+    height: auto;
+    background-color: #B9F6CA;
+}
+
+.card-img-style {
+    margin-top: 10px;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.sidebar-style {
+    border-radius: 10px;
+    background-color: #B9F6CA;
+}
+
+.content-style {
+    margin-left: 2px;
+}
